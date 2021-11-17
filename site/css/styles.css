@@ -3,4 +3,18 @@ body {
 	color: #fff;
 	background-color: grey;
 	font-family: monospace;
+	font-weight:900;
+	text-align: center;
+}
+
+#header-nav {
+	background-color: red;
+	border-radius: 0;
+	border: 1;
+}
+#logo-img {
+	background: url("marloes.jpg") no-repeat;
+	background-size: contain;
+	width: 200px;
+	height: 200px;
 }
